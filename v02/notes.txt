@@ -1,0 +1,5 @@
+=========
+v02 notes
+=========
+1. to add content configuration <-> interface
+2. interoperation interfaces
