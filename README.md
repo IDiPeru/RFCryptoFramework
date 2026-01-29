@@ -55,33 +55,33 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Features and resources</a>
+      <a href="#">Features and resources</a>
     </li>
     <li>
-      <a href="#about-the-project">Dev Envs</a>
+      <a href="#">Dev Envs</a>
     </li>
     <li>
-      <a href="#about-the-project">Device runtime</a>
+      <a href="#">Device runtime</a>
     </li>
     <li>
-      <a href="#getting-started">Topology</a>
+      <a href="#">Topology</a>
       <ul>
-        <li><a href="#prerequisites">P2P vs Controller</a></li>
-        <li><a href="#installation">Grid</a></li>
-        <li><a href="#installation">Cluster</a></li>
+        <li><a href="#">P2P vs Controller</a></li>
+        <li><a href="#">Grid</a></li>
+        <li><a href="#">Cluster</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Transmission</a>
+      <a href="#">Transmission</a>
       <ul>
-        <li><a href="#prerequisites">Non-scheduled</a></li>
-        <li><a href="#installation">Scheduled</a></li>
+        <li><a href="#">Non-scheduled</a></li>
+        <li><a href="#">Scheduled</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">In-revision</a>
+      <a href="#">In-revision</a>
       <ul>
-        <li><a href="#prerequisites">additional configuration: amplitude, frequency, band</a></li>
+        <li><a href="#">additional configuration: amplitude, frequency, band</a></li>
       </ul>
     </li>
   </ol>
