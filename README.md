@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/favicon.ico" alt="Logo" width="180" height="180">
+    <img src="images/favicon.ico" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Jumpin’ Jack Simplex CX Framework</h3>
