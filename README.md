@@ -37,27 +37,57 @@
   <h3 align="center">Jumpin’ Jack Simplex CX Framework</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Encryption framework for secure RF TX/RX.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/IDiPeru/RFCryptoFramework"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="">View Demo</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="">Report Bug</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="">Request Feature</a>
   </p>
 </div>
 
-
-
-Encryption framework for secure RF TX/RX.
-
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">Features and resources</a>
+    </li>
+    <li>
+      <a href="#about-the-project">Dev Envs</a>
+    </li>
+    <li>
+      <a href="#about-the-project">Device runtime</a>
+    </li>
+    <li>
+      <a href="#getting-started">Topology</a>
+      <ul>
+        <li><a href="#prerequisites">P2P vs Controller</a></li>
+        <li><a href="#installation">Grid</a></li>
+        <li><a href="#installation">Cluster</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Transmission</a>
+      <ul>
+        <li><a href="#prerequisites">Non-scheduled</a></li>
+        <li><a href="#installation">Scheduled</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">In-revision</a>
+      <ul>
+        <li><a href="#prerequisites">additional configuration: amplitude, frequency, band</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
