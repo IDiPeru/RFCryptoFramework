@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/othneildrew/Best-README-Template](https://github.com/IDiPeru/">
     <img src="images/favicon.ico" alt="Logo" width="100" height="100">
   </a>
 
@@ -42,11 +42,9 @@
     <a href="https://github.com/IDiPeru/RFCryptoFramework"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://github.com/IDiPeru/RFCryptoFramework/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="">Report Bug</a>
-    &middot;
-    <a href="">Request Feature</a>
+    <a href="https://github.com/IDiPeru/RFCryptoFramework/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
