@@ -39,7 +39,7 @@
   <p align="center">
     Encryption framework for secure RF TX/RX.
     <br />
-    <a href="https://github.com/IDiPeru/RFCryptoFramework"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/IDiPeru/RFCryptoFramework/v02"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/IDiPeru/RFCryptoFramework/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
