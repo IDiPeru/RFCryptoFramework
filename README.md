@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template](https://github.com/IDiPeru/">
+  <a href="https://github.com/IDiPeru/">
     <img src="images/favicon.ico" alt="Logo" width="100" height="100">
   </a>
 
