@@ -71,8 +71,8 @@
 ## License
 
 <a href="https://github.com/IDiPeru/RFCryptoFramework">JJSCF</a> © 2025 by <a href="https://example.com">Cristian Amayo</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>
-<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" width="10" height="10">
-<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" width="10" height="10">
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" width="20" height="20">
+<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" width="20" height="20">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
