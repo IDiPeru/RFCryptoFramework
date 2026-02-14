@@ -80,7 +80,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Cristian Amayo - [https://www.linkedin.com/in/cristianamayo/](https://www.linkedin.com/in/cristianamayo/) - cristian.amayo@idiperu.org
+Cristian Amayo - https://www.linkedin.com/in/cristianamayo/ - cristian.amayo@idiperu.org
 
 Project Link: [https://github.com/IDiPeru/RFCryptoFramework](https://github.com/IDiPeru/RFCryptoFramework)
 
