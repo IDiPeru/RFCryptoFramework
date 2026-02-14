@@ -69,7 +69,7 @@
 
 <!-- LICENSE -->
 ## License
-<a href="https://github.com/IDiPeru/RFCryptoFramework">JJSCF</a> © 2025 by <a href="https://example.com">Cristian Amayo</a> is licensed under <a href="https://github.com/IDiPeru/RFCryptoFramework/blob/main/LICENSE">Apache 2.0</a>
+<a href="https://github.com/IDiPeru/RFCryptoFramework">JJSCF</a> © 2025 by <a href="https://www.linkedin.com/in/cristianamayo/">Cristian Amayo</a> (cristian.amayo@idiperu.org) is licensed under <a href="https://github.com/IDiPeru/RFCryptoFramework/blob/main/LICENSE">Apache 2.0</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
