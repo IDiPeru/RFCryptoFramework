@@ -82,7 +82,7 @@
 
 Cristian Amayo - https://www.linkedin.com/in/cristianamayo/ - cristian.amayo@idiperu.org
 
-Project Link: [https://github.com/IDiPeru/RFCryptoFramework](https://github.com/IDiPeru/RFCryptoFramework)
+Project Link: https://github.com/IDiPeru/RFCryptoFramework
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
