@@ -69,17 +69,12 @@
 
 <!-- LICENSE -->
 ## License
-
-<a href="https://github.com/IDiPeru/RFCryptoFramework">JJSCF</a> © 2025 by <a href="https://example.com">Cristian Amayo</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>
-<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" width="20" height="20">
-<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" width="20" height="20">
-
+<a href="https://github.com/IDiPeru/RFCryptoFramework">JJSCF</a> © 2025 by <a href="https://example.com">Cristian Amayo</a> is licensed under <a href="https://github.com/IDiPeru/RFCryptoFramework/blob/main/LICENSE">Apache 2.0</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 Cristian Amayo - https://www.linkedin.com/in/cristianamayo/ - cristian.amayo@idiperu.org
-
 Project Link: https://github.com/IDiPeru/RFCryptoFramework
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,6 +88,6 @@ Project Link: https://github.com/IDiPeru/RFCryptoFramework
 [issues-shield]: https://img.shields.io/github/issues/IDiPeru/RFCryptoFramework?style=for-the-badge
 [issues-url]: https://github.com/IDiPeru/RFCryptoFramework/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/IDiPeru/RFCryptoFramework/blob/master/LICENSE.txt
+[license-url]: https://github.com/IDiPeru/RFCryptoFramework/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/idiperu
