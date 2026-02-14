@@ -70,14 +70,30 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LICENSE -->
+## License
+
+<a href="https://github.com/IDiPeru/RFCryptoFramework">JJSCF</a> © 2025 by <a href="https://example.com">Cristian Amayo</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+## Contact
+
+Cristian Amayo - [https://www.linkedin.com/in/cristianamayo/](https://www.linkedin.com/in/cristianamayo/) - cristian.amayo@idiperu.org
+
+Project Link: [[https://github.com/your_username/repo_name](https://github.com/IDiPeru/RFCryptoFramework)]([https://github.com/your_username/repo_name](https://github.com/IDiPeru/RFCryptoFramework))
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/IDiPeru/RFCryptoFramework?style=for-the-badge
 [contributors-url]: https://github.com/IDiPeru/RFCryptoFramework/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/IDiPeru/RFCryptoFramework?style=for-the-badge
 [forks-url]: https://github.com/IDiPeru/RFCryptoFramework/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/IDiPeru/RFCryptoFramework?style=for-the-badge
 [stars-url]: https://github.com/IDiPeru/RFCryptoFramework/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/IDiPeru/RFCryptoFramework?style=for-the-badge
 [issues-url]: https://github.com/IDiPeru/RFCryptoFramework/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/IDiPeru/RFCryptoFramework/blob/master/LICENSE.txt
