@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/IDiPeru/">
-    <img src="images/encfact.jpg" alt="Logo" width="100" height="100">
+    <img src="images/encfact.jpg" alt="Logo">
   </a>
 
   <h3 align="center">Jumpin’ Jack Simplex CX Framework</h3>
