@@ -11,8 +11,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/IDiPeru/">
-    <a href="https://github.com/IDiPeru/RFCryptoFramework/tree/main/images/encfact1.png"><strong>Explore the docs »</strong><img src="images/encfact1.png" alt="Cover" width="25%"></a>
-    <a href="https://github.com/IDiPeru/RFCryptoFramework/tree/main/images/encfact2.png"><strong>Explore the docs »</strong><img src="images/encfact2.png" alt="Cover" width="25%"></a>
+    <a href="https://github.com/IDiPeru/RFCryptoFramework/tree/main/images/encfact1.png"><img src="images/encfact1.png" alt="Cover" width="25%"></a>
+    <a href="https://github.com/IDiPeru/RFCryptoFramework/tree/main/images/encfact2.png"><img src="images/encfact2.png" alt="Cover" width="25%"></a>
   </a>
 
   <h3 align="center">Jumpin’ Jack Simplex CX Framework</h3>
